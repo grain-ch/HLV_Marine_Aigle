@@ -1,0 +1,7 @@
+<FGT042_550mm_3tube_Mle_1928T.model>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/HLV_Marine_Aigle_Mod/FSD506_Aigle/gun/lods/FGT042_550mm_3tube_Mle_1928T_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_Marine_Aigle_Mod/FSD506_Aigle/gun/FGT042_550mm_3tube_Mle_1928T	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FGT042_550mm_3tube_Mle_1928T.model>
