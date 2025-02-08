@@ -1,7 +1,6 @@
 <FF016_4m_Rangefinder.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Marine_Aigle_Mod/FSD506_Aigle/finder/lods/FF016_4m_Rangefinder_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Marine_Aigle_Mod/FSD506_Aigle/finder/FF016_4m_Rangefinder	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Marine_Aigle_Mod/FSD506_Aigle/finder/FF016_4m_Rangefinder.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </FF016_4m_Rangefinder.model>

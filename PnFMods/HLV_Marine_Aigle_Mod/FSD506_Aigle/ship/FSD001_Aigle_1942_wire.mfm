@@ -7,7 +7,4 @@
 	<property>	metallicGlossMap
 		<Texture>	PnFMods/HLV_Marine_Aigle_Mod/FSD506_Aigle/ship/FSD001_Aigle_1942_mg.dds	</Texture>
 	</property>
-	<property>	normalMap
-		<Texture>	PnFMods/HLV_Marine_Aigle_Mod/FSD506_Aigle/ship/FSD001_Aigle_1942_n.dds	</Texture>
-	</property>
 </FSD001_Aigle_1942_wire.mfm>

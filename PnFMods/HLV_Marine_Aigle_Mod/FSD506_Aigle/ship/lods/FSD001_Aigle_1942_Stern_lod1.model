@@ -1,7 +1,0 @@
-<FSD001_Aigle_1942_Stern_lod1.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Marine_Aigle_Mod/FSD506_Aigle/ship/lods/FSD001_Aigle_1942_Stern_lod2	</parent>
-	<extent>	15.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Marine_Aigle_Mod/FSD506_Aigle/ship/lods/FSD001_Aigle_1942_Stern_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</FSD001_Aigle_1942_Stern_lod1.model>

@@ -8,6 +8,9 @@ Copy "PnFMods" and "PnFModsLoader.py" into /bin/{the largest numbered folder}/re
 ==============================
 Change log
 
+2025/02/08
+update for WoWS 14.1
+
 2024/03/14
 minor update
 
